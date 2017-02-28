@@ -1,3 +1,9 @@
+This is a fork of the sshpk npm module which adds supports for the 
+secp256k1 curve used in Bitcoin and Ethereum. This enables, for the 
+latter, on-chain verifiable HTTP signatures through the ecrecover 
+precompile.
+
+
 sshpk
 =========
 
